@@ -5,7 +5,7 @@
 <br>
 
 - [] useTitle
-- [] useInput
+- [O] useInput
 - [] usePageLeave
 - [] useClick
 - [] useFadeIn
