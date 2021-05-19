@@ -4,7 +4,7 @@
 
 <br>
 
-- [] useTitle
+- [O] useTitle
 - [O] useInput
 - [] usePageLeave
 - [] useClick
