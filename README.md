@@ -7,7 +7,7 @@
 - [O] useTitle
 - [O] useInput
 - [] usePageLeave
-- [] useClick
+- [O] useClick
 - [] useFadeIn
 - [] useFullscreen
 - [] useHover
