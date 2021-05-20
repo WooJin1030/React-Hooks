@@ -16,5 +16,5 @@
 - [] useScroll
 - [O] useTabs
 - [] usePreventLeave
-- [] useConfirm
+- [O] useConfirm
 - [] useAxios
