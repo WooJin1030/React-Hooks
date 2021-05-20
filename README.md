@@ -8,7 +8,7 @@
 - [O] useInput
 - [O] useBeforeLeave
 - [O] useClick
-- [] useFadeIn
+- [O] useFadeIn
 - [] useFullscreen
 - [O] useHover
 - [] useNetwork
