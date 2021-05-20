@@ -11,7 +11,7 @@
 - [O] useFadeIn
 - [] useFullscreen
 - [O] useHover
-- [] useNetwork
+- [O] useNetwork
 - [] useNotification
 - [] useScroll
 - [O] useTabs
