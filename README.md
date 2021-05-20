@@ -10,7 +10,7 @@
 - [O] useClick
 - [] useFadeIn
 - [] useFullscreen
-- [] useHover
+- [O] useHover
 - [] useNetwork
 - [] useNotification
 - [] useScroll
