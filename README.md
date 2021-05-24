@@ -17,4 +17,4 @@
 - [O] useTabs
 - [O] usePreventLeave
 - [O] useConfirm
-- [] useAxios
+- [O] useAxios
