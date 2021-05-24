@@ -9,7 +9,7 @@
 - [O] useBeforeLeave
 - [O] useClick
 - [O] useFadeIn
-- [] useFullscreen
+- [O] useFullscreen
 - [O] useHover
 - [O] useNetwork
 - [] useNotification
