@@ -22,4 +22,5 @@
 - [O] useFavicon
 - [O] useGeolocation
 - [O] useKeyPress
-- [O] use
+- [O] useLocalStorage
+- [O] useLockScroll
