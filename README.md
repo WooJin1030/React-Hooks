@@ -19,3 +19,6 @@
 - [O] useConfirm
 - [O] useAxios
 - [O] useDeviceOrientation
+- [O] useFavicon
+- [O] useGeolocation
+- [O] useKeyPress
