@@ -18,3 +18,4 @@
 - [O] usePreventLeave
 - [O] useConfirm
 - [O] useAxios
+- [O] useDeviceOrientation

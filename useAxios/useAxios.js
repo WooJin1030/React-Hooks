@@ -35,5 +35,3 @@ export const useAxios = (opts, axiosInstance = defaultAxios) => {
 
   return { ...state, refetch };
 };
-
-export default useAxios;
