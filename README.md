@@ -24,3 +24,5 @@
 - [O] useKeyPress
 - [O] useLocalStorage
 - [O] useLockScroll
+- [O] useMousePosition
+- [O] useOnline
